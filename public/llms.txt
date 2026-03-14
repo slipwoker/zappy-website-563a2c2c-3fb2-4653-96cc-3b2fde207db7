@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Evidence-based functional medicine focusing on root causes, not symptoms. Explore 7 core systems, clinical nutrition, and personalized health solutions backed by IFM research.
+
+### About
+https://example.com/about
+Learn how our comprehensive platform transforms healthcare through functional medicine principles, backed by Institute for Functional Medicine research and clinical expertise.
+
+### 7 Systems
+https://example.com/systems
+Dive deep into the seven physiological systems that govern your health. Access expert resources on sleep hygiene, stress management, and environmental wellness strategies.
+
+### Contact
+https://example.com/contact
+Ready to address your health at the root level? Connect with our evidence-based functional medicine team and take the first step toward optimal wellness today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
