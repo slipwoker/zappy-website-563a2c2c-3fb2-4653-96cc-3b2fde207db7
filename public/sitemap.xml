@@ -1,45 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://functional-medicine-israel.zappy5.app</loc>
+    <loc>https://functionalmedicine.co.il</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il" />
   </url>
   <url>
-    <loc>https://functional-medicine-israel.zappy5.app/about</loc>
+    <loc>https://functionalmedicine.co.il/he</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il" />
+  </url>
+  <url>
+    <loc>https://functionalmedicine.co.il/about</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/about" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/about" />
   </url>
   <url>
-    <loc>https://functional-medicine-israel.zappy5.app/systems</loc>
+    <loc>https://functionalmedicine.co.il/he/about</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/about" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/about" />
   </url>
   <url>
-    <loc>https://functional-medicine-israel.zappy5.app/contact</loc>
+    <loc>https://functionalmedicine.co.il/systems</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/systems" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/systems" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/systems" />
+  </url>
+  <url>
+    <loc>https://functionalmedicine.co.il/he/systems</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/systems" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/systems" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/systems" />
+  </url>
+  <url>
+    <loc>https://functionalmedicine.co.il/contact</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/contact" />
   </url>
   <url>
-    <loc>https://functional-medicine-israel.zappy5.app/privacy</loc>
+    <loc>https://functionalmedicine.co.il/he/contact</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/contact" />
+  </url>
+  <url>
+    <loc>https://functionalmedicine.co.il/privacy</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/privacy" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/privacy" />
   </url>
   <url>
-    <loc>https://functional-medicine-israel.zappy5.app/terms</loc>
+    <loc>https://functionalmedicine.co.il/he/privacy</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/privacy" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/privacy" />
   </url>
   <url>
-    <loc>https://functional-medicine-israel.zappy5.app/accessibility</loc>
+    <loc>https://functionalmedicine.co.il/terms</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/terms" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/terms" />
+  </url>
+  <url>
+    <loc>https://functionalmedicine.co.il/he/terms</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/terms" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/terms" />
+  </url>
+  <url>
+    <loc>https://functionalmedicine.co.il/accessibility</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/accessibility" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/accessibility" />
+  </url>
+  <url>
+    <loc>https://functionalmedicine.co.il/he/accessibility</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://functionalmedicine.co.il/accessibility" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://functionalmedicine.co.il/he/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://functionalmedicine.co.il/accessibility" />
   </url>
 </urlset>
