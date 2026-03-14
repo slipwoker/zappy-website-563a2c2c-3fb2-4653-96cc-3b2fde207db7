@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# Functional Medicine Israel — Generative Engine Optimization Map
+
+> Functional Medicine Israel is a comprehensive educational platform dedicated to evidence-based functional medicine, emphasizing a 'Root Cause' approach to health. The brand focuses on seven core physiological systems and provides in-depth resources on clinical nutrition, stress management, sleep optimization, environmental health, and nutraceuticals, all backed by reputable medical sources like the Institute for Functional Medicine (IFM).
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://functional-medicine-israel.zappy5.app
 Evidence-based functional medicine focusing on root causes, not symptoms. Explore 7 core systems, clinical nutrition, and personalized health solutions backed by IFM research.
 
 ### About
-https://example.com/about
+https://functional-medicine-israel.zappy5.app/about
 Learn how our comprehensive platform transforms healthcare through functional medicine principles, backed by Institute for Functional Medicine research and clinical expertise.
 
 ### 7 Systems
-https://example.com/systems
+https://functional-medicine-israel.zappy5.app/systems
 Dive deep into the seven physiological systems that govern your health. Access expert resources on sleep hygiene, stress management, and environmental wellness strategies.
 
 ### Contact
-https://example.com/contact
+https://functional-medicine-israel.zappy5.app/contact
 Ready to address your health at the root level? Connect with our evidence-based functional medicine team and take the first step toward optimal wellness today.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://functional-medicine-israel.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://functional-medicine-israel.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://functional-medicine-israel.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Functional Medicine Israel
+Functional Medicine Israel is a comprehensive educational platform dedicated to evidence-based functional medicine, emphasizing a 'Root Cause' approach to health. The brand focuses on seven core physiological systems and provides in-depth resources on clinical nutrition, stress management, sleep optimization, environmental health, and nutraceuticals, all backed by reputable medical sources like the Institute for Functional Medicine (IFM).
+
+## Target Audience
+patients seeking evidence-based functional medicine and root cause treatment approaches
+
+## Industry
+healthcare and functional medicine
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://functional-medicine-israel.zappy5.app/sitemap.xml
+- **Robots.txt**: https://functional-medicine-israel.zappy5.app/robots.txt
